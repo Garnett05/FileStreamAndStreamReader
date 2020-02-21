@@ -1,0 +1,11 @@
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.exe
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.deps.json
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.runtimeconfig.json
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.runtimeconfig.dev.json
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.dll
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.0\FileStreamAndStreamReader.pdb
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.0\FileStreamAndStreamReader.csprojAssemblyReference.cache
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.0\FileStreamAndStreamReader.AssemblyInfoInputs.cache
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.0\FileStreamAndStreamReader.AssemblyInfo.cs
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.0\FileStreamAndStreamReader.dll
+D:\Documentos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.0\FileStreamAndStreamReader.pdb
